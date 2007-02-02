@@ -2,7 +2,7 @@
 
 = Introduction =
 
-TimeLine will be a web application, built in java using the Google web toolkit that will allow searching and visualization of data based on date.
+[TimeLine] will be a web application, built in java using the Google web toolkit that will allow searching and visualization of data based on date.
 
 
 == Details ==
