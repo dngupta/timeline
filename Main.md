@@ -1,0 +1,13 @@
+# Introduction #
+
+[TimeLine](TimeLine.md) will be a web application, built in java using the Google web toolkit that will allow searching and visualization of data based on date.
+
+
+## Details ##
+
+Sources
+  * Google web search
+  * Wikipedia?
+  * iTunes Music Store?
+
+
